@@ -1,6 +1,6 @@
 module github.com/kanrichan/toktik
 
-go 1.19
+go 1.18
 
 require (
 	github.com/go-kratos/kratos/v2 v2.7.0
